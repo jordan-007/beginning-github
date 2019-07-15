@@ -5,4 +5,5 @@ pink
 blue
 red
 green
+yellow
 these aree my colours of my rainbow
